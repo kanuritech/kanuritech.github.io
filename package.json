@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kanuritech/kanuritech.github.io/issues"
   },
-  "homepage": "https://github.com/kanuritech/kanuritech.github.io#readme"
+  "homepage": "https://github.com/kanuritech/kanuritech.github.io#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
 }
