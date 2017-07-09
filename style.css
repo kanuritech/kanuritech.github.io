@@ -2019,3 +2019,13 @@ table th, table td {
   display: inline-block;
   top: 0.3rem;
 }
+
+.brand-name-white {
+  color: #ffffff;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  position: relative;
+  display: inline-block;
+  top: 0.3rem;
+}
